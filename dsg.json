@@ -1,0 +1,42 @@
+{ "pages": [
+	{
+		"title": "Main Text Styles",
+		"url": "http://www.krl.org/",
+		"elements": [
+			"h1.node-title",
+			"section h2",
+			".views-row-first .views-field-title .field-content a",
+			"#block-menu-menu-top-menu .menu li:first-child a",
+			"#block-system-main-menu .menu li:first-child a",
+			"footer .menu li:first-child a",
+			"h2.sidebar-heading",
+			".field-name-body h3",
+			".field-name-body p:nth-of-type(1)"
+		],
+		"properties": [
+			"font-family",
+			"font-style",
+			"font-weight",
+			"font-size",
+			"line-height",
+			"color",
+			"background-color"
+		],
+		"notes": "Common text elements."
+	},
+	{
+		"title": "Main Image Styles",
+		"url": "http://www.krl.org/",
+		"elements": [
+			".view-new-home-page-feature-slides .views-field-field-image img",
+			"#logo img",
+			".view-new-blog-latest .views-row-first .views-field-picture img"
+		],
+		"properties": [
+			"width",
+			"height",
+			"background-color"
+		],
+		"notes": "Common image elements."
+	}
+]}
